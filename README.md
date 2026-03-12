@@ -32,4 +32,4 @@ The lectures cover **all major OOP concepts in Python**, including:
 ```bash
 git clone https://github.com/qasimriaz002/PYTHON-OOP-TUTORIAL.git
 
-2. Recommended: Use Python 3.10+ for best compatibility.
+Recommended: Use Python 3.10+ for best compatibility.
