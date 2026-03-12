@@ -1,3 +1,5 @@
+# Prepared by Muhammad Qasim Riaz (Lecturer - GIK Institute)
+
 # In this lecture we will understand the concept of constructor & destructor.
 # CONSTRUCTOR - it is a kind of function that is called directly when object of class is created.
 # DESTRUCTOR - it is a kind of function that called directly when object of class is removed from memory.

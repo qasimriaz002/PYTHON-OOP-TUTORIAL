@@ -1,3 +1,5 @@
+# Prepared by Muhammad Qasim Riaz (Lecturer - GIK Institute)
+
 # =====================================================
 # Lecture 08 - Inheritance Access Specifiers
 # =====================================================

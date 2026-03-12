@@ -1,3 +1,5 @@
+# Prepared by Muhammad Qasim Riaz (Lecturer - GIK Institute)
+
 # =====================================================
 # Lecture 14 - Passing Objects as Parameters & Using Lists/Dictionaries of Objects
 # =====================================================
