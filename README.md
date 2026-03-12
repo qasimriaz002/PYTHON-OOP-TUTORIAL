@@ -21,7 +21,7 @@ The lectures cover **all major OOP concepts in Python**, including:
 7. **Abstract Classes**  
 8. **Static Variables and Methods**
 
-> Each lecture file includes **extensive comments and examples** tailored to **Mechanical Engineering applications**, making concepts easy to understand.
+> Each lecture file includes **extensive comments and examples** tailored to **concept based partical understanding**, making concepts easy to understand.
 
 ---
 
