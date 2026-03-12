@@ -1,5 +1,9 @@
 # Prepared by Muhammad Qasim Riaz (Lecturer - GIK Institute)
 
+# =====================================================
+# Lecture 01 - Classes & Objects
+# =====================================================
+
 # A class representing the characteristics of a real-word student is created below
 class Student:
     # creation of variables in class
